@@ -13,7 +13,7 @@ This repository contains the complete PayPilot AI prototype, including:
 - Responsive frontend demo
 - FastAPI backend
 
-## Run the demo
+## Run  the  demo
 
 Extract `paypilot-ai.zip`, then open:
 
